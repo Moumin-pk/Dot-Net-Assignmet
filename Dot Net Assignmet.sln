@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dot Net Assignmet", "Dot Net Assignmet.csproj", "{B09C8874-B8DA-46BC-9C01-DCED37812DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09C8874-B8DA-46BC-9C01-DCED37812DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09C8874-B8DA-46BC-9C01-DCED37812DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09C8874-B8DA-46BC-9C01-DCED37812DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09C8874-B8DA-46BC-9C01-DCED37812DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A75A2A42-636E-4EBA-9071-CD2D59473AF3}
+	EndGlobalSection
+EndGlobal
